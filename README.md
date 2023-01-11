@@ -36,7 +36,7 @@ Flutter / Dart, BLoC (state management), REST API, Barcode scanner, Labels print
 
 Project Information: 
 
-The LifeView app will allow you to stop for a moment and think about owning your life 👀. It's an emotional tracker that will let you think about what emotions you experience the most✍️. With LifeView you can think about what you are grateful for in your life ☀️, what your goals are 📈, and in the dreams section you can say out loud what you dream about 🚀🚀🚀!
+The LifeView app will allow you to stop for a moment and think about owning your life 👀. It's an emotional tracker that will let you think about what emotions you experience the most✍️. With LifeView you can think about what you are grateful for in your life ☀️, what your goals are 📈, and in the dreams section you can say out loud what you dream about 🚀🚀🚀! The application is constantly adding new technologies and features, however because I work as a Flutter Developer  I don't have a lot of time for side projects.
 
 Stack and Skills:
 
